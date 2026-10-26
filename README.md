@@ -68,41 +68,6 @@ On Linux or macOS:
 ./NetflixRecommendation
 ```
 
-## Sample Output
-
-```text
-========================================
-    NETFLIX MOVIE RECOMMENDATION SYSTEM
-========================================
-
-Choose Your Preferred Genre:
-1. Sci-Fi
-2. Action
-3. Comedy
-4. Horror
-5. Romance
-
-Enter your choice (1-5): 1
-
-Your Preferred Genre: Sci-Fi
-
-========================================
-       RECOMMENDED MOVIES
-========================================
-
-Movie Name : Inception
-Genre      : Sci-Fi
-Rating     : 8.8/10
-
-Movie Name : Interstellar
-Genre      : Sci-Fi
-Rating     : 8.7/10
-
-Movie Name : The Matrix
-Genre      : Sci-Fi
-Rating     : 8.7/10
-```
-
 ## Project Objective
 
 The objective of this project is to understand how algorithms can be used to recommend movies based on user preferences and to implement a simple recommendation system using C++.
@@ -113,6 +78,6 @@ This project is an educational demonstration of genre-based movie recommendation
 
 ## Author
 
-**Name:** Parmar Dwija
-**Course:** BTECH Information Technology
-**Institute:** A D Patel Institute of Technology (ADIT)
+## **Name:** Parmar Dwija
+## **Course:** BTECH Information Technology
+## **Institute:** A D Patel Institute of Technology (ADIT)
